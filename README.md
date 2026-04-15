@@ -58,7 +58,7 @@ An advanced AI photo transformation platform that transports users into 120+ uni
 
 <p align="left">
   <a href="mailto:hasanhasanov345@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hasanhasanov345%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-hasanhasanovpasa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/hesennov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
